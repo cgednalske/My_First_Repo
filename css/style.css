@@ -1,0 +1,75 @@
+  body {
+
+  }
+  .content {
+    border-color: red;
+    border-style: dotted;
+    margin: 15px;
+    align-content: center;
+    
+  }
+  .content img {
+    float: left;
+    margin: 20px;
+    width: 100px;
+    margin: 40px;
+  }
+ 
+  .block {
+    background-color:palegoldenrod;
+    width: 70%;
+    float: right;
+    height: 600px;
+  }
+  .sidebar {
+    background-color: indigo;
+    width: 30%;
+    float: left;
+    height: 600px;
+  }
+  .name {
+    background-color: orange;
+    padding: 20px;
+    text-align: center;
+    
+  }
+  .name img {
+    width: 40%;
+  }
+  .stats {
+    background-color: orchid;
+    height: 400px;
+    padding: 50px;
+  }
+  .menu {
+    display: inline-block;
+    background-color: darkgray;
+    height: 50px;
+    line-height: 50px;
+    width: 100px;
+    text-align: center;
+    float: left;
+  }
+  .sub {
+    display: inline-block;
+    width: 100px;
+    margin: 20px;
+  }
+  h2 {
+    margin-left: 20px;
+  }
+  nav {
+    background-color: lightgray;
+    height: 50px;
+  }
+  .images {
+    margin: 15px;
+    background-color: lightblue;
+    border-color: red;
+    border-style: dotted;
+    text-align: center;
+  }
+  
+  p {
+    margin: 20px;
+  }
